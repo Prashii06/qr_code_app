@@ -11,6 +11,7 @@ st.set_page_config(page_title="QR Made Easy", layout="wide")
 
 # Title
 st.markdown("# QR :red[Made] Easy")
+st.header("Generate:red[.] Scan:red[.] Customize:red[.]")
 st.markdown("Welcome to QR Made Easy, the all-in-one platform to create, scan and customize QR codes effortlessly. Whether you're promoting a brand, sharing a link, vcard or email, our easy-to-use tools let you style your QR codes with colors and logos. Choose from multiple formats and bring creativity to every QR. Explore and enjoy this world of QR.")
 
 # Function to create vCard string
